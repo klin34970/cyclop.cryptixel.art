@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 22
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949057
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1577",
+    "external_url": "https://cyclop.cryptixel.art/1577",
+    "image": "https://cyclop.cryptixel.art/1577",
+    "name": 1577
+}

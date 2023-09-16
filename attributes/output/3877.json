@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 74
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949153
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3877",
+    "external_url": "https://cyclop.cryptixel.art/3877",
+    "image": "https://cyclop.cryptixel.art/3877",
+    "name": 3877
+}

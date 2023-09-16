@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 74
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949130
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1280",
+    "external_url": "https://cyclop.cryptixel.art/1280",
+    "image": "https://cyclop.cryptixel.art/1280",
+    "name": 1280
+}

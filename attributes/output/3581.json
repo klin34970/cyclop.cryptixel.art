@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 60
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949048
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3581",
+    "external_url": "https://cyclop.cryptixel.art/3581",
+    "image": "https://cyclop.cryptixel.art/3581",
+    "name": 3581
+}

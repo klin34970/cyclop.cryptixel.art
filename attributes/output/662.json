@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 24
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949066
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 662",
+    "external_url": "https://cyclop.cryptixel.art/662",
+    "image": "https://cyclop.cryptixel.art/662",
+    "name": 662
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 20
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949188
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 728",
+    "external_url": "https://cyclop.cryptixel.art/728",
+    "image": "https://cyclop.cryptixel.art/728",
+    "name": 728
+}

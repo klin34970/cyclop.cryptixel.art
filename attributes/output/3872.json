@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 19
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949049
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3872",
+    "external_url": "https://cyclop.cryptixel.art/3872",
+    "image": "https://cyclop.cryptixel.art/3872",
+    "name": 3872
+}

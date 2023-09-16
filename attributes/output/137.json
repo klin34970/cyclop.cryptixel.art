@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 29
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949130
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 137",
+    "external_url": "https://cyclop.cryptixel.art/137",
+    "image": "https://cyclop.cryptixel.art/137",
+    "name": 137
+}

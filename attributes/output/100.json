@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 75
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949099
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 100",
+    "external_url": "https://cyclop.cryptixel.art/100",
+    "image": "https://cyclop.cryptixel.art/100",
+    "name": 100
+}

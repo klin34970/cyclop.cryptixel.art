@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 73
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949082
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2093",
+    "external_url": "https://cyclop.cryptixel.art/2093",
+    "image": "https://cyclop.cryptixel.art/2093",
+    "name": 2093
+}

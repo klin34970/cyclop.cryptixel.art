@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 74
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949112
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2052",
+    "external_url": "https://cyclop.cryptixel.art/2052",
+    "image": "https://cyclop.cryptixel.art/2052",
+    "name": 2052
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 17
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949047
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 361",
+    "external_url": "https://cyclop.cryptixel.art/361",
+    "image": "https://cyclop.cryptixel.art/361",
+    "name": 361
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 26
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949165
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3343",
+    "external_url": "https://cyclop.cryptixel.art/3343",
+    "image": "https://cyclop.cryptixel.art/3343",
+    "name": 3343
+}

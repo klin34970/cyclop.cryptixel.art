@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 16
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949086
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1955",
+    "external_url": "https://cyclop.cryptixel.art/1955",
+    "image": "https://cyclop.cryptixel.art/1955",
+    "name": 1955
+}

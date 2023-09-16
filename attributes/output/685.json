@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 62
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949167
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 685",
+    "external_url": "https://cyclop.cryptixel.art/685",
+    "image": "https://cyclop.cryptixel.art/685",
+    "name": 685
+}

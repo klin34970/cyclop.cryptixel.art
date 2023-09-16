@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 21
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949179
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3815",
+    "external_url": "https://cyclop.cryptixel.art/3815",
+    "image": "https://cyclop.cryptixel.art/3815",
+    "name": 3815
+}

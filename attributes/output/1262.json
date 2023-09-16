@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 55
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949097
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1262",
+    "external_url": "https://cyclop.cryptixel.art/1262",
+    "image": "https://cyclop.cryptixel.art/1262",
+    "name": 1262
+}

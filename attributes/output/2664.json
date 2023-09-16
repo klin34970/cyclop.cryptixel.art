@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 23
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949207
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2664",
+    "external_url": "https://cyclop.cryptixel.art/2664",
+    "image": "https://cyclop.cryptixel.art/2664",
+    "name": 2664
+}

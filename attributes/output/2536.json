@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 37
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 66
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949063
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2536",
+    "external_url": "https://cyclop.cryptixel.art/2536",
+    "image": "https://cyclop.cryptixel.art/2536",
+    "name": 2536
+}

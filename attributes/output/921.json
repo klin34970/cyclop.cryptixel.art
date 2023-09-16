@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 38
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949118
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 921",
+    "external_url": "https://cyclop.cryptixel.art/921",
+    "image": "https://cyclop.cryptixel.art/921",
+    "name": 921
+}

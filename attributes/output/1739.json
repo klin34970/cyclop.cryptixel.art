@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 37
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949078
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1739",
+    "external_url": "https://cyclop.cryptixel.art/1739",
+    "image": "https://cyclop.cryptixel.art/1739",
+    "name": 1739
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 22
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949048
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1649",
+    "external_url": "https://cyclop.cryptixel.art/1649",
+    "image": "https://cyclop.cryptixel.art/1649",
+    "name": 1649
+}

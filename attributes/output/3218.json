@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 48
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 62
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949138
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3218",
+    "external_url": "https://cyclop.cryptixel.art/3218",
+    "image": "https://cyclop.cryptixel.art/3218",
+    "name": 3218
+}

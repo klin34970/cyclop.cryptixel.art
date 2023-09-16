@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 20
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949120
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1735",
+    "external_url": "https://cyclop.cryptixel.art/1735",
+    "image": "https://cyclop.cryptixel.art/1735",
+    "name": 1735
+}

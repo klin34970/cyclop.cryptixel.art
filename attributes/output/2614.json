@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 68
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949101
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2614",
+    "external_url": "https://cyclop.cryptixel.art/2614",
+    "image": "https://cyclop.cryptixel.art/2614",
+    "name": 2614
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 37
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949070
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1875",
+    "external_url": "https://cyclop.cryptixel.art/1875",
+    "image": "https://cyclop.cryptixel.art/1875",
+    "name": 1875
+}

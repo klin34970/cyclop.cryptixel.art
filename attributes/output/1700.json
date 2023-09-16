@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 32
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949113
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1700",
+    "external_url": "https://cyclop.cryptixel.art/1700",
+    "image": "https://cyclop.cryptixel.art/1700",
+    "name": 1700
+}

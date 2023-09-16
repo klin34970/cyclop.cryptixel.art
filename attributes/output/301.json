@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 57
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949181
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 301",
+    "external_url": "https://cyclop.cryptixel.art/301",
+    "image": "https://cyclop.cryptixel.art/301",
+    "name": 301
+}

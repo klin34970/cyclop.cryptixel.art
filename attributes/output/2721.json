@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 23
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949173
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2721",
+    "external_url": "https://cyclop.cryptixel.art/2721",
+    "image": "https://cyclop.cryptixel.art/2721",
+    "name": 2721
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 62
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949155
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 761",
+    "external_url": "https://cyclop.cryptixel.art/761",
+    "image": "https://cyclop.cryptixel.art/761",
+    "name": 761
+}

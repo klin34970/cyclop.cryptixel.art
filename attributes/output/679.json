@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 69
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949186
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 679",
+    "external_url": "https://cyclop.cryptixel.art/679",
+    "image": "https://cyclop.cryptixel.art/679",
+    "name": 679
+}

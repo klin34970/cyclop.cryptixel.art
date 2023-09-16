@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 43
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949115
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2455",
+    "external_url": "https://cyclop.cryptixel.art/2455",
+    "image": "https://cyclop.cryptixel.art/2455",
+    "name": 2455
+}

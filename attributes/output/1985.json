@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 64
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949064
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1985",
+    "external_url": "https://cyclop.cryptixel.art/1985",
+    "image": "https://cyclop.cryptixel.art/1985",
+    "name": 1985
+}

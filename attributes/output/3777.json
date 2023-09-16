@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 31
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949144
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3777",
+    "external_url": "https://cyclop.cryptixel.art/3777",
+    "image": "https://cyclop.cryptixel.art/3777",
+    "name": 3777
+}

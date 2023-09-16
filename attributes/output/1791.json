@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 47
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949156
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1791",
+    "external_url": "https://cyclop.cryptixel.art/1791",
+    "image": "https://cyclop.cryptixel.art/1791",
+    "name": 1791
+}

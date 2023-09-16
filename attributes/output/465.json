@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 63
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949087
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 465",
+    "external_url": "https://cyclop.cryptixel.art/465",
+    "image": "https://cyclop.cryptixel.art/465",
+    "name": 465
+}

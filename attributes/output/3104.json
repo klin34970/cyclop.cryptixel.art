@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 60
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949200
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3104",
+    "external_url": "https://cyclop.cryptixel.art/3104",
+    "image": "https://cyclop.cryptixel.art/3104",
+    "name": 3104
+}

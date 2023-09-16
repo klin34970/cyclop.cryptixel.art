@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 32
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949153
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3879",
+    "external_url": "https://cyclop.cryptixel.art/3879",
+    "image": "https://cyclop.cryptixel.art/3879",
+    "name": 3879
+}

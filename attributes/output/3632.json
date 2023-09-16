@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "rap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "abe"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "elvis"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 80
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 89
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 91
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 84
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3632",
+    "external_url": "https://cyclop.cryptixel.art/3632",
+    "image": "https://cyclop.cryptixel.art/3632",
+    "name": 3632
+}

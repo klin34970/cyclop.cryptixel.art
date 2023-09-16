@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 16
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949169
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3926",
+    "external_url": "https://cyclop.cryptixel.art/3926",
+    "image": "https://cyclop.cryptixel.art/3926",
+    "name": 3926
+}

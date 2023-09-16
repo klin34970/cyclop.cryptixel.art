@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 42
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949076
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2318",
+    "external_url": "https://cyclop.cryptixel.art/2318",
+    "image": "https://cyclop.cryptixel.art/2318",
+    "name": 2318
+}

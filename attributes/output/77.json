@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 73
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949054
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 77",
+    "external_url": "https://cyclop.cryptixel.art/77",
+    "image": "https://cyclop.cryptixel.art/77",
+    "name": 77
+}

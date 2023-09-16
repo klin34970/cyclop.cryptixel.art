@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 35
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949024
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3786",
+    "external_url": "https://cyclop.cryptixel.art/3786",
+    "image": "https://cyclop.cryptixel.art/3786",
+    "name": 3786
+}

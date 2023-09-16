@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 59
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949190
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 141",
+    "external_url": "https://cyclop.cryptixel.art/141",
+    "image": "https://cyclop.cryptixel.art/141",
+    "name": 141
+}

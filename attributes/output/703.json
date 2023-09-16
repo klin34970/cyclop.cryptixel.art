@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 65
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949188
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 703",
+    "external_url": "https://cyclop.cryptixel.art/703",
+    "image": "https://cyclop.cryptixel.art/703",
+    "name": 703
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 25
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949123
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1360",
+    "external_url": "https://cyclop.cryptixel.art/1360",
+    "image": "https://cyclop.cryptixel.art/1360",
+    "name": 1360
+}

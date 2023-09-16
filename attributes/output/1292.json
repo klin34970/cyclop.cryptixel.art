@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 40
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949113
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1292",
+    "external_url": "https://cyclop.cryptixel.art/1292",
+    "image": "https://cyclop.cryptixel.art/1292",
+    "name": 1292
+}

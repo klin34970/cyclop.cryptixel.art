@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 37
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949101
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2133",
+    "external_url": "https://cyclop.cryptixel.art/2133",
+    "image": "https://cyclop.cryptixel.art/2133",
+    "name": 2133
+}

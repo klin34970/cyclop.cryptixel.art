@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 48
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 24
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949112
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2198",
+    "external_url": "https://cyclop.cryptixel.art/2198",
+    "image": "https://cyclop.cryptixel.art/2198",
+    "name": 2198
+}

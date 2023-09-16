@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 30
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949081
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 4115",
+    "external_url": "https://cyclop.cryptixel.art/4115",
+    "image": "https://cyclop.cryptixel.art/4115",
+    "name": 4115
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 35
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949129
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 356",
+    "external_url": "https://cyclop.cryptixel.art/356",
+    "image": "https://cyclop.cryptixel.art/356",
+    "name": 356
+}

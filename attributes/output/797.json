@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 50
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949150
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 797",
+    "external_url": "https://cyclop.cryptixel.art/797",
+    "image": "https://cyclop.cryptixel.art/797",
+    "name": 797
+}

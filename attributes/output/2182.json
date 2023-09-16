@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 70
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949207
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2182",
+    "external_url": "https://cyclop.cryptixel.art/2182",
+    "image": "https://cyclop.cryptixel.art/2182",
+    "name": 2182
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 75
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949114
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1157",
+    "external_url": "https://cyclop.cryptixel.art/1157",
+    "image": "https://cyclop.cryptixel.art/1157",
+    "name": 1157
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 63
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949123
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 78",
+    "external_url": "https://cyclop.cryptixel.art/78",
+    "image": "https://cyclop.cryptixel.art/78",
+    "name": 78
+}

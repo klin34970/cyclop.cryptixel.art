@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 31
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949118
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1611",
+    "external_url": "https://cyclop.cryptixel.art/1611",
+    "image": "https://cyclop.cryptixel.art/1611",
+    "name": 1611
+}

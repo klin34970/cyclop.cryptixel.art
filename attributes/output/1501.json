@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 48
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 24
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949056
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1501",
+    "external_url": "https://cyclop.cryptixel.art/1501",
+    "image": "https://cyclop.cryptixel.art/1501",
+    "name": 1501
+}

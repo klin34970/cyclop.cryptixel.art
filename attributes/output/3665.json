@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 26
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949082
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3665",
+    "external_url": "https://cyclop.cryptixel.art/3665",
+    "image": "https://cyclop.cryptixel.art/3665",
+    "name": 3665
+}

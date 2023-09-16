@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 16
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949038
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2818",
+    "external_url": "https://cyclop.cryptixel.art/2818",
+    "image": "https://cyclop.cryptixel.art/2818",
+    "name": 2818
+}

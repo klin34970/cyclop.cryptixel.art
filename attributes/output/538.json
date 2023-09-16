@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 65
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949087
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 538",
+    "external_url": "https://cyclop.cryptixel.art/538",
+    "image": "https://cyclop.cryptixel.art/538",
+    "name": 538
+}

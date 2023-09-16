@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 70
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949133
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2131",
+    "external_url": "https://cyclop.cryptixel.art/2131",
+    "image": "https://cyclop.cryptixel.art/2131",
+    "name": 2131
+}

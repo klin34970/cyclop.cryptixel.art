@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 17
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 32
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949193
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1951",
+    "external_url": "https://cyclop.cryptixel.art/1951",
+    "image": "https://cyclop.cryptixel.art/1951",
+    "name": 1951
+}

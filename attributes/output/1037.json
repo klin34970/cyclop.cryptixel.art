@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 40
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949053
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1037",
+    "external_url": "https://cyclop.cryptixel.art/1037",
+    "image": "https://cyclop.cryptixel.art/1037",
+    "name": 1037
+}

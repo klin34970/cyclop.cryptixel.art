@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 45
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949189
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 211",
+    "external_url": "https://cyclop.cryptixel.art/211",
+    "image": "https://cyclop.cryptixel.art/211",
+    "name": 211
+}

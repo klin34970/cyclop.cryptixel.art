@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 39
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949196
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2819",
+    "external_url": "https://cyclop.cryptixel.art/2819",
+    "image": "https://cyclop.cryptixel.art/2819",
+    "name": 2819
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 47
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949131
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 605",
+    "external_url": "https://cyclop.cryptixel.art/605",
+    "image": "https://cyclop.cryptixel.art/605",
+    "name": 605
+}

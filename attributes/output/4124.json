@@ -1,0 +1,49 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "heaven"
+    },
+    {
+      "trait_type": "Body",
+      "value": "scarf"
+    },
+    {
+      "trait_type": "Face",
+      "value": "beautiful"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "beret"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Health",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Agility",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Stamina",
+      "value": 100
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Vision",
+      "value": 100
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Birthday",
+      "value": 572313600
+    }
+  ],
+  "description": "Hello I'm Vairon. I am the only one of my clan with two eyes. I should have had a blue or a green eye but Mother Nature decided otherwise.",
+  "external_url": "https://cyclop.cryptixel.art/4124",
+  "image": "https://cyclop.cryptixel.art/4124",
+  "name": "Vairon"
+}

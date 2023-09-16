@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 48
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 18
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949167
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1755",
+    "external_url": "https://cyclop.cryptixel.art/1755",
+    "image": "https://cyclop.cryptixel.art/1755",
+    "name": 1755
+}

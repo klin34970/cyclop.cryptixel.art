@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 73
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949135
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 621",
+    "external_url": "https://cyclop.cryptixel.art/621",
+    "image": "https://cyclop.cryptixel.art/621",
+    "name": 621
+}

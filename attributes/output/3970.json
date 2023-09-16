@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 49
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949027
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3970",
+    "external_url": "https://cyclop.cryptixel.art/3970",
+    "image": "https://cyclop.cryptixel.art/3970",
+    "name": 3970
+}

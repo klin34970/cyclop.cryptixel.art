@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 61
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949136
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 143",
+    "external_url": "https://cyclop.cryptixel.art/143",
+    "image": "https://cyclop.cryptixel.art/143",
+    "name": 143
+}

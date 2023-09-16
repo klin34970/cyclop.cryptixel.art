@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 56
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949163
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1482",
+    "external_url": "https://cyclop.cryptixel.art/1482",
+    "image": "https://cyclop.cryptixel.art/1482",
+    "name": 1482
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "skull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "pirate"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "elvis"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 89
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 99
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 84
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 79
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 205",
+    "external_url": "https://cyclop.cryptixel.art/205",
+    "image": "https://cyclop.cryptixel.art/205",
+    "name": 205
+}

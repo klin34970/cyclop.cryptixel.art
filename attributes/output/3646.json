@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 15
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949155
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3646",
+    "external_url": "https://cyclop.cryptixel.art/3646",
+    "image": "https://cyclop.cryptixel.art/3646",
+    "name": 3646
+}

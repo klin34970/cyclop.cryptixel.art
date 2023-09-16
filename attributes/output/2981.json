@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 63
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949095
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2981",
+    "external_url": "https://cyclop.cryptixel.art/2981",
+    "image": "https://cyclop.cryptixel.art/2981",
+    "name": 2981
+}

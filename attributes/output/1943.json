@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 70
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949183
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1943",
+    "external_url": "https://cyclop.cryptixel.art/1943",
+    "image": "https://cyclop.cryptixel.art/1943",
+    "name": 1943
+}

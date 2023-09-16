@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "skull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "delta"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "devil"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 78
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 90
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 85
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 96
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1827",
+    "external_url": "https://cyclop.cryptixel.art/1827",
+    "image": "https://cyclop.cryptixel.art/1827",
+    "name": 1827
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 73
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949129
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 565",
+    "external_url": "https://cyclop.cryptixel.art/565",
+    "image": "https://cyclop.cryptixel.art/565",
+    "name": 565
+}

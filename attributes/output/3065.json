@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 63
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949199
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3065",
+    "external_url": "https://cyclop.cryptixel.art/3065",
+    "image": "https://cyclop.cryptixel.art/3065",
+    "name": 3065
+}

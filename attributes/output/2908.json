@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 48
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949046
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2908",
+    "external_url": "https://cyclop.cryptixel.art/2908",
+    "image": "https://cyclop.cryptixel.art/2908",
+    "name": 2908
+}

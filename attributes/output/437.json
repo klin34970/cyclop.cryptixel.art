@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "galaxy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "hiphop"
+        },
+        {
+            "trait_type": "Face",
+            "value": "delta"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "devil"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 81
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 93
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 79
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 88
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949210
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 437",
+    "external_url": "https://cyclop.cryptixel.art/437",
+    "image": "https://cyclop.cryptixel.art/437",
+    "name": 437
+}

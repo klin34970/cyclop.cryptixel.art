@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 15
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949141
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2793",
+    "external_url": "https://cyclop.cryptixel.art/2793",
+    "image": "https://cyclop.cryptixel.art/2793",
+    "name": 2793
+}

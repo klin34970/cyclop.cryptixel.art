@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 55
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949205
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 550",
+    "external_url": "https://cyclop.cryptixel.art/550",
+    "image": "https://cyclop.cryptixel.art/550",
+    "name": 550
+}

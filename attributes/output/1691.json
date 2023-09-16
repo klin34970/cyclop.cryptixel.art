@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 33
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949183
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1691",
+    "external_url": "https://cyclop.cryptixel.art/1691",
+    "image": "https://cyclop.cryptixel.art/1691",
+    "name": 1691
+}

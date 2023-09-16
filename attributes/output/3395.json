@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 23
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 26
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949061
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3395",
+    "external_url": "https://cyclop.cryptixel.art/3395",
+    "image": "https://cyclop.cryptixel.art/3395",
+    "name": 3395
+}

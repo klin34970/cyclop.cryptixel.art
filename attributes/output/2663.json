@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 73
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949114
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2663",
+    "external_url": "https://cyclop.cryptixel.art/2663",
+    "image": "https://cyclop.cryptixel.art/2663",
+    "name": 2663
+}

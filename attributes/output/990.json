@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 57
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949107
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 990",
+    "external_url": "https://cyclop.cryptixel.art/990",
+    "image": "https://cyclop.cryptixel.art/990",
+    "name": 990
+}

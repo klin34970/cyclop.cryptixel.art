@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 40
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949084
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3603",
+    "external_url": "https://cyclop.cryptixel.art/3603",
+    "image": "https://cyclop.cryptixel.art/3603",
+    "name": 3603
+}

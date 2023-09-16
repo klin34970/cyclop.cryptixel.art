@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 75
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949039
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 927",
+    "external_url": "https://cyclop.cryptixel.art/927",
+    "image": "https://cyclop.cryptixel.art/927",
+    "name": 927
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 60
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949153
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 83",
+    "external_url": "https://cyclop.cryptixel.art/83",
+    "image": "https://cyclop.cryptixel.art/83",
+    "name": 83
+}

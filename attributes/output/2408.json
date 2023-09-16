@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 49
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949169
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2408",
+    "external_url": "https://cyclop.cryptixel.art/2408",
+    "image": "https://cyclop.cryptixel.art/2408",
+    "name": 2408
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 75
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949200
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1802",
+    "external_url": "https://cyclop.cryptixel.art/1802",
+    "image": "https://cyclop.cryptixel.art/1802",
+    "name": 1802
+}

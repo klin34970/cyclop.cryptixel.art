@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "rap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "delta"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "headphone"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 92
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 93
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 78
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 93
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2980",
+    "external_url": "https://cyclop.cryptixel.art/2980",
+    "image": "https://cyclop.cryptixel.art/2980",
+    "name": 2980
+}

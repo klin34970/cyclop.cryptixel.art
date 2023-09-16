@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 50
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949173
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3945",
+    "external_url": "https://cyclop.cryptixel.art/3945",
+    "image": "https://cyclop.cryptixel.art/3945",
+    "name": 3945
+}

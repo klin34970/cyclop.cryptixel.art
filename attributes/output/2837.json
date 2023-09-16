@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 30
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949026
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2837",
+    "external_url": "https://cyclop.cryptixel.art/2837",
+    "image": "https://cyclop.cryptixel.art/2837",
+    "name": 2837
+}

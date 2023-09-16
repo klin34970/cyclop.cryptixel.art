@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 46
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949098
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 418",
+    "external_url": "https://cyclop.cryptixel.art/418",
+    "image": "https://cyclop.cryptixel.art/418",
+    "name": 418
+}

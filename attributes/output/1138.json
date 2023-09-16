@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 17
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 67
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949161
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1138",
+    "external_url": "https://cyclop.cryptixel.art/1138",
+    "image": "https://cyclop.cryptixel.art/1138",
+    "name": 1138
+}

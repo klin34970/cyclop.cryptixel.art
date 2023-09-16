@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 42
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949046
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2542",
+    "external_url": "https://cyclop.cryptixel.art/2542",
+    "image": "https://cyclop.cryptixel.art/2542",
+    "name": 2542
+}

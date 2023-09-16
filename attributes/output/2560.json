@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 58
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949125
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2560",
+    "external_url": "https://cyclop.cryptixel.art/2560",
+    "image": "https://cyclop.cryptixel.art/2560",
+    "name": 2560
+}

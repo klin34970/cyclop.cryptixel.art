@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 60
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949144
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 798",
+    "external_url": "https://cyclop.cryptixel.art/798",
+    "image": "https://cyclop.cryptixel.art/798",
+    "name": 798
+}

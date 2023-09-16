@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 17
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949060
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1461",
+    "external_url": "https://cyclop.cryptixel.art/1461",
+    "image": "https://cyclop.cryptixel.art/1461",
+    "name": 1461
+}

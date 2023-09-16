@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 17
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 53
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949025
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2592",
+    "external_url": "https://cyclop.cryptixel.art/2592",
+    "image": "https://cyclop.cryptixel.art/2592",
+    "name": 2592
+}

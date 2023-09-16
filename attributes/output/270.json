@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 34
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949107
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 270",
+    "external_url": "https://cyclop.cryptixel.art/270",
+    "image": "https://cyclop.cryptixel.art/270",
+    "name": 270
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 58
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949054
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 527",
+    "external_url": "https://cyclop.cryptixel.art/527",
+    "image": "https://cyclop.cryptixel.art/527",
+    "name": 527
+}

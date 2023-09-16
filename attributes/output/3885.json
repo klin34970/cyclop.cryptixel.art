@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 22
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949036
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3885",
+    "external_url": "https://cyclop.cryptixel.art/3885",
+    "image": "https://cyclop.cryptixel.art/3885",
+    "name": 3885
+}

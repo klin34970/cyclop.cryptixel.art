@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 33
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949052
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 61",
+    "external_url": "https://cyclop.cryptixel.art/61",
+    "image": "https://cyclop.cryptixel.art/61",
+    "name": 61
+}

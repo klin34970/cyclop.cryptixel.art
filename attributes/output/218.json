@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 41
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949119
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 218",
+    "external_url": "https://cyclop.cryptixel.art/218",
+    "image": "https://cyclop.cryptixel.art/218",
+    "name": 218
+}

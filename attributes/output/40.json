@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 72
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949199
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 40",
+    "external_url": "https://cyclop.cryptixel.art/40",
+    "image": "https://cyclop.cryptixel.art/40",
+    "name": 40
+}

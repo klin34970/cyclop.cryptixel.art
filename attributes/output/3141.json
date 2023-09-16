@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 24
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949080
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3141",
+    "external_url": "https://cyclop.cryptixel.art/3141",
+    "image": "https://cyclop.cryptixel.art/3141",
+    "name": 3141
+}

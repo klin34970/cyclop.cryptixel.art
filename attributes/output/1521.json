@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 38
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949077
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1521",
+    "external_url": "https://cyclop.cryptixel.art/1521",
+    "image": "https://cyclop.cryptixel.art/1521",
+    "name": 1521
+}

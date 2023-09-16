@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 50
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949167
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1452",
+    "external_url": "https://cyclop.cryptixel.art/1452",
+    "image": "https://cyclop.cryptixel.art/1452",
+    "name": 1452
+}

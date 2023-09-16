@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 59
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949156
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3937",
+    "external_url": "https://cyclop.cryptixel.art/3937",
+    "image": "https://cyclop.cryptixel.art/3937",
+    "name": 3937
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 29
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949057
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2933",
+    "external_url": "https://cyclop.cryptixel.art/2933",
+    "image": "https://cyclop.cryptixel.art/2933",
+    "name": 2933
+}

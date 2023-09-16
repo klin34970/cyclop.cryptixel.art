@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 60
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949184
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3417",
+    "external_url": "https://cyclop.cryptixel.art/3417",
+    "image": "https://cyclop.cryptixel.art/3417",
+    "name": 3417
+}

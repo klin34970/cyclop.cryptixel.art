@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 66
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949149
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3322",
+    "external_url": "https://cyclop.cryptixel.art/3322",
+    "image": "https://cyclop.cryptixel.art/3322",
+    "name": 3322
+}

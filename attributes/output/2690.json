@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 48
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 57
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949095
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2690",
+    "external_url": "https://cyclop.cryptixel.art/2690",
+    "image": "https://cyclop.cryptixel.art/2690",
+    "name": 2690
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 16
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949169
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3329",
+    "external_url": "https://cyclop.cryptixel.art/3329",
+    "image": "https://cyclop.cryptixel.art/3329",
+    "name": 3329
+}

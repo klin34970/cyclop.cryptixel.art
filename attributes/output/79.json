@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 69
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949100
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 79",
+    "external_url": "https://cyclop.cryptixel.art/79",
+    "image": "https://cyclop.cryptixel.art/79",
+    "name": 79
+}

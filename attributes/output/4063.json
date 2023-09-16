@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 29
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949107
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 4063",
+    "external_url": "https://cyclop.cryptixel.art/4063",
+    "image": "https://cyclop.cryptixel.art/4063",
+    "name": 4063
+}

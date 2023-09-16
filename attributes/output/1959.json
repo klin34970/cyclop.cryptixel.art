@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 18
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949119
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1959",
+    "external_url": "https://cyclop.cryptixel.art/1959",
+    "image": "https://cyclop.cryptixel.art/1959",
+    "name": 1959
+}

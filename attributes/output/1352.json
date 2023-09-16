@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 75
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949136
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1352",
+    "external_url": "https://cyclop.cryptixel.art/1352",
+    "image": "https://cyclop.cryptixel.art/1352",
+    "name": 1352
+}

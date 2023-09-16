@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 43
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949046
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2938",
+    "external_url": "https://cyclop.cryptixel.art/2938",
+    "image": "https://cyclop.cryptixel.art/2938",
+    "name": 2938
+}

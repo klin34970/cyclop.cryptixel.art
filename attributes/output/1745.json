@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 16
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949024
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1745",
+    "external_url": "https://cyclop.cryptixel.art/1745",
+    "image": "https://cyclop.cryptixel.art/1745",
+    "name": 1745
+}

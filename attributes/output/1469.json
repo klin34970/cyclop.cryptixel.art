@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 53
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949193
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1469",
+    "external_url": "https://cyclop.cryptixel.art/1469",
+    "image": "https://cyclop.cryptixel.art/1469",
+    "name": 1469
+}

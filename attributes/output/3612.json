@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 67
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949063
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3612",
+    "external_url": "https://cyclop.cryptixel.art/3612",
+    "image": "https://cyclop.cryptixel.art/3612",
+    "name": 3612
+}

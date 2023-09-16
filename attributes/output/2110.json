@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 17
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949136
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2110",
+    "external_url": "https://cyclop.cryptixel.art/2110",
+    "image": "https://cyclop.cryptixel.art/2110",
+    "name": 2110
+}

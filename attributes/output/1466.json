@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 57
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949097
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1466",
+    "external_url": "https://cyclop.cryptixel.art/1466",
+    "image": "https://cyclop.cryptixel.art/1466",
+    "name": 1466
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 51
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949032
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3922",
+    "external_url": "https://cyclop.cryptixel.art/3922",
+    "image": "https://cyclop.cryptixel.art/3922",
+    "name": 3922
+}

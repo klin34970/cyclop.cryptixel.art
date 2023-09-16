@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "rap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "pirate"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "elvis"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 82
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 78
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 79
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 93
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3677",
+    "external_url": "https://cyclop.cryptixel.art/3677",
+    "image": "https://cyclop.cryptixel.art/3677",
+    "name": 3677
+}

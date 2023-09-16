@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 68
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949100
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 370",
+    "external_url": "https://cyclop.cryptixel.art/370",
+    "image": "https://cyclop.cryptixel.art/370",
+    "name": 370
+}

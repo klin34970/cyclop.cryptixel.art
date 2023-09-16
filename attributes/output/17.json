@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 26
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949040
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 17",
+    "external_url": "https://cyclop.cryptixel.art/17",
+    "image": "https://cyclop.cryptixel.art/17",
+    "name": 17
+}

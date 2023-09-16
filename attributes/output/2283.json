@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 34
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949049
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2283",
+    "external_url": "https://cyclop.cryptixel.art/2283",
+    "image": "https://cyclop.cryptixel.art/2283",
+    "name": 2283
+}

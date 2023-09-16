@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 32
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949165
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 649",
+    "external_url": "https://cyclop.cryptixel.art/649",
+    "image": "https://cyclop.cryptixel.art/649",
+    "name": 649
+}

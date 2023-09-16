@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 59
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949191
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 954",
+    "external_url": "https://cyclop.cryptixel.art/954",
+    "image": "https://cyclop.cryptixel.art/954",
+    "name": 954
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 34
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949085
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 495",
+    "external_url": "https://cyclop.cryptixel.art/495",
+    "image": "https://cyclop.cryptixel.art/495",
+    "name": 495
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 55
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949034
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 4017",
+    "external_url": "https://cyclop.cryptixel.art/4017",
+    "image": "https://cyclop.cryptixel.art/4017",
+    "name": 4017
+}

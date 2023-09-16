@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 68
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949174
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1888",
+    "external_url": "https://cyclop.cryptixel.art/1888",
+    "image": "https://cyclop.cryptixel.art/1888",
+    "name": 1888
+}

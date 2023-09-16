@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 37
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949100
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 156",
+    "external_url": "https://cyclop.cryptixel.art/156",
+    "image": "https://cyclop.cryptixel.art/156",
+    "name": 156
+}

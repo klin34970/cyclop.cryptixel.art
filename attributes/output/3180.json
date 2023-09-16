@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 54
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949099
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3180",
+    "external_url": "https://cyclop.cryptixel.art/3180",
+    "image": "https://cyclop.cryptixel.art/3180",
+    "name": 3180
+}

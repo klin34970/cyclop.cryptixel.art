@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 33
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949200
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 967",
+    "external_url": "https://cyclop.cryptixel.art/967",
+    "image": "https://cyclop.cryptixel.art/967",
+    "name": 967
+}

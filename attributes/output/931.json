@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 75
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949174
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 931",
+    "external_url": "https://cyclop.cryptixel.art/931",
+    "image": "https://cyclop.cryptixel.art/931",
+    "name": 931
+}

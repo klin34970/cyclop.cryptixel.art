@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 31
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949100
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3509",
+    "external_url": "https://cyclop.cryptixel.art/3509",
+    "image": "https://cyclop.cryptixel.art/3509",
+    "name": 3509
+}

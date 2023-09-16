@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 22
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949082
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1194",
+    "external_url": "https://cyclop.cryptixel.art/1194",
+    "image": "https://cyclop.cryptixel.art/1194",
+    "name": 1194
+}

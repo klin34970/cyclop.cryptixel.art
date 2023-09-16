@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 23
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949123
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3610",
+    "external_url": "https://cyclop.cryptixel.art/3610",
+    "image": "https://cyclop.cryptixel.art/3610",
+    "name": 3610
+}

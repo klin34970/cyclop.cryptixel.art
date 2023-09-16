@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 49
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949064
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 334",
+    "external_url": "https://cyclop.cryptixel.art/334",
+    "image": "https://cyclop.cryptixel.art/334",
+    "name": 334
+}

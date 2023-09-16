@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 37
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 20
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949023
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 770",
+    "external_url": "https://cyclop.cryptixel.art/770",
+    "image": "https://cyclop.cryptixel.art/770",
+    "name": 770
+}

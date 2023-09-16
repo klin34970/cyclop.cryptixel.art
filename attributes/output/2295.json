@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 46
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949058
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2295",
+    "external_url": "https://cyclop.cryptixel.art/2295",
+    "image": "https://cyclop.cryptixel.art/2295",
+    "name": 2295
+}

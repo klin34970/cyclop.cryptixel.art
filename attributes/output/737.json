@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 60
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949136
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 737",
+    "external_url": "https://cyclop.cryptixel.art/737",
+    "image": "https://cyclop.cryptixel.art/737",
+    "name": 737
+}

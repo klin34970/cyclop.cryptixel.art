@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 26
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949043
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2002",
+    "external_url": "https://cyclop.cryptixel.art/2002",
+    "image": "https://cyclop.cryptixel.art/2002",
+    "name": 2002
+}

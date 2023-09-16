@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 20
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949105
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2114",
+    "external_url": "https://cyclop.cryptixel.art/2114",
+    "image": "https://cyclop.cryptixel.art/2114",
+    "name": 2114
+}

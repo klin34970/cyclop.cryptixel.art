@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 66
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949192
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2789",
+    "external_url": "https://cyclop.cryptixel.art/2789",
+    "image": "https://cyclop.cryptixel.art/2789",
+    "name": 2789
+}

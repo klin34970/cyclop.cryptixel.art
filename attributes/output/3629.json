@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 73
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949094
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3629",
+    "external_url": "https://cyclop.cryptixel.art/3629",
+    "image": "https://cyclop.cryptixel.art/3629",
+    "name": 3629
+}

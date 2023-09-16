@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 38
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949190
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3893",
+    "external_url": "https://cyclop.cryptixel.art/3893",
+    "image": "https://cyclop.cryptixel.art/3893",
+    "name": 3893
+}

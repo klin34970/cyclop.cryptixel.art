@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 70
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949136
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2402",
+    "external_url": "https://cyclop.cryptixel.art/2402",
+    "image": "https://cyclop.cryptixel.art/2402",
+    "name": 2402
+}

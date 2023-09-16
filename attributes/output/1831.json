@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 18
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949023
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1831",
+    "external_url": "https://cyclop.cryptixel.art/1831",
+    "image": "https://cyclop.cryptixel.art/1831",
+    "name": 1831
+}

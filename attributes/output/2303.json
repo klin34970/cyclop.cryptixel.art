@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 46
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949181
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2303",
+    "external_url": "https://cyclop.cryptixel.art/2303",
+    "image": "https://cyclop.cryptixel.art/2303",
+    "name": 2303
+}

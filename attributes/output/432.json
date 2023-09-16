@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 50
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949145
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 432",
+    "external_url": "https://cyclop.cryptixel.art/432",
+    "image": "https://cyclop.cryptixel.art/432",
+    "name": 432
+}

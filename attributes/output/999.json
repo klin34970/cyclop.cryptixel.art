@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 67
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949174
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 999",
+    "external_url": "https://cyclop.cryptixel.art/999",
+    "image": "https://cyclop.cryptixel.art/999",
+    "name": 999
+}

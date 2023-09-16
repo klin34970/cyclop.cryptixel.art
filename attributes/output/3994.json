@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "galaxy"
+        },
+        {
+            "trait_type": "Body",
+            "value": "hiphop"
+        },
+        {
+            "trait_type": "Face",
+            "value": "pirate"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "devil"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 97
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 93
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 87
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 96
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3994",
+    "external_url": "https://cyclop.cryptixel.art/3994",
+    "image": "https://cyclop.cryptixel.art/3994",
+    "name": 3994
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 22
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949200
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1090",
+    "external_url": "https://cyclop.cryptixel.art/1090",
+    "image": "https://cyclop.cryptixel.art/1090",
+    "name": 1090
+}

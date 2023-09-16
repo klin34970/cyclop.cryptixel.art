@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 23
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 68
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949044
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1487",
+    "external_url": "https://cyclop.cryptixel.art/1487",
+    "image": "https://cyclop.cryptixel.art/1487",
+    "name": 1487
+}

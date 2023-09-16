@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 40
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949102
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1896",
+    "external_url": "https://cyclop.cryptixel.art/1896",
+    "image": "https://cyclop.cryptixel.art/1896",
+    "name": 1896
+}

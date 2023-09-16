@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 22
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949105
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 727",
+    "external_url": "https://cyclop.cryptixel.art/727",
+    "image": "https://cyclop.cryptixel.art/727",
+    "name": 727
+}

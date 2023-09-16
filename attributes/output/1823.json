@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 18
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949071
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1823",
+    "external_url": "https://cyclop.cryptixel.art/1823",
+    "image": "https://cyclop.cryptixel.art/1823",
+    "name": 1823
+}

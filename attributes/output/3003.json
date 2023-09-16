@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 62
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949105
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3003",
+    "external_url": "https://cyclop.cryptixel.art/3003",
+    "image": "https://cyclop.cryptixel.art/3003",
+    "name": 3003
+}

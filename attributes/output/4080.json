@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 74
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949188
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 4080",
+    "external_url": "https://cyclop.cryptixel.art/4080",
+    "image": "https://cyclop.cryptixel.art/4080",
+    "name": 4080
+}

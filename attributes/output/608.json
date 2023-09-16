@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 17
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949124
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 608",
+    "external_url": "https://cyclop.cryptixel.art/608",
+    "image": "https://cyclop.cryptixel.art/608",
+    "name": 608
+}

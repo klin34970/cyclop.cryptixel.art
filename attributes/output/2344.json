@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 38
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949042
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2344",
+    "external_url": "https://cyclop.cryptixel.art/2344",
+    "image": "https://cyclop.cryptixel.art/2344",
+    "name": 2344
+}

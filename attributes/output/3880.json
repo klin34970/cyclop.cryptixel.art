@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 41
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949133
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3880",
+    "external_url": "https://cyclop.cryptixel.art/3880",
+    "image": "https://cyclop.cryptixel.art/3880",
+    "name": 3880
+}

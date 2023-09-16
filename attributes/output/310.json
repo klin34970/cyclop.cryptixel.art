@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 21
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949185
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 310",
+    "external_url": "https://cyclop.cryptixel.art/310",
+    "image": "https://cyclop.cryptixel.art/310",
+    "name": 310
+}

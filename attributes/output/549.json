@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 16
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 30
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949071
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 549",
+    "external_url": "https://cyclop.cryptixel.art/549",
+    "image": "https://cyclop.cryptixel.art/549",
+    "name": 549
+}

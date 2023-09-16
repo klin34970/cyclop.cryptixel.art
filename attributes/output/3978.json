@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 62
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949119
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3978",
+    "external_url": "https://cyclop.cryptixel.art/3978",
+    "image": "https://cyclop.cryptixel.art/3978",
+    "name": 3978
+}

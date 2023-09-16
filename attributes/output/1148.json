@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 53
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949065
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1148",
+    "external_url": "https://cyclop.cryptixel.art/1148",
+    "image": "https://cyclop.cryptixel.art/1148",
+    "name": 1148
+}

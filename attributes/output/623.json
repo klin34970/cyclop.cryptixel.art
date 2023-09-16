@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 53
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949032
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 623",
+    "external_url": "https://cyclop.cryptixel.art/623",
+    "image": "https://cyclop.cryptixel.art/623",
+    "name": 623
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 17
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949200
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 369",
+    "external_url": "https://cyclop.cryptixel.art/369",
+    "image": "https://cyclop.cryptixel.art/369",
+    "name": 369
+}

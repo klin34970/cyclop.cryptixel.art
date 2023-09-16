@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 48
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 34
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949089
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 730",
+    "external_url": "https://cyclop.cryptixel.art/730",
+    "image": "https://cyclop.cryptixel.art/730",
+    "name": 730
+}

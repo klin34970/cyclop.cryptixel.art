@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 74
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949145
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2998",
+    "external_url": "https://cyclop.cryptixel.art/2998",
+    "image": "https://cyclop.cryptixel.art/2998",
+    "name": 2998
+}

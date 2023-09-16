@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 27
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949060
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 187",
+    "external_url": "https://cyclop.cryptixel.art/187",
+    "image": "https://cyclop.cryptixel.art/187",
+    "name": 187
+}

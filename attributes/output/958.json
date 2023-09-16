@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 39
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949163
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 958",
+    "external_url": "https://cyclop.cryptixel.art/958",
+    "image": "https://cyclop.cryptixel.art/958",
+    "name": 958
+}

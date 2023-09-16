@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 64
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949145
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 632",
+    "external_url": "https://cyclop.cryptixel.art/632",
+    "image": "https://cyclop.cryptixel.art/632",
+    "name": 632
+}

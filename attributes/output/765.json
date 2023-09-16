@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 50
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949131
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 765",
+    "external_url": "https://cyclop.cryptixel.art/765",
+    "image": "https://cyclop.cryptixel.art/765",
+    "name": 765
+}

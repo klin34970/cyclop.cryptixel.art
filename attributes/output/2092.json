@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 47
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949034
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2092",
+    "external_url": "https://cyclop.cryptixel.art/2092",
+    "image": "https://cyclop.cryptixel.art/2092",
+    "name": 2092
+}

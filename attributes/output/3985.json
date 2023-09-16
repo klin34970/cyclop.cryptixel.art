@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 65
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949122
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3985",
+    "external_url": "https://cyclop.cryptixel.art/3985",
+    "image": "https://cyclop.cryptixel.art/3985",
+    "name": 3985
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 59
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949131
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 493",
+    "external_url": "https://cyclop.cryptixel.art/493",
+    "image": "https://cyclop.cryptixel.art/493",
+    "name": 493
+}

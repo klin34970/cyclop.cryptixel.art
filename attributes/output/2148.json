@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 55
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949209
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2148",
+    "external_url": "https://cyclop.cryptixel.art/2148",
+    "image": "https://cyclop.cryptixel.art/2148",
+    "name": 2148
+}

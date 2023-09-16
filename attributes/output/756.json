@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 40
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949040
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 756",
+    "external_url": "https://cyclop.cryptixel.art/756",
+    "image": "https://cyclop.cryptixel.art/756",
+    "name": 756
+}

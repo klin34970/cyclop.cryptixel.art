@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 48
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 23
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949073
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2886",
+    "external_url": "https://cyclop.cryptixel.art/2886",
+    "image": "https://cyclop.cryptixel.art/2886",
+    "name": 2886
+}

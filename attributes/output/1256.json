@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 17
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 47
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949069
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1256",
+    "external_url": "https://cyclop.cryptixel.art/1256",
+    "image": "https://cyclop.cryptixel.art/1256",
+    "name": 1256
+}

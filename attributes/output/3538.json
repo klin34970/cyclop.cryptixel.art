@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 36
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949173
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3538",
+    "external_url": "https://cyclop.cryptixel.art/3538",
+    "image": "https://cyclop.cryptixel.art/3538",
+    "name": 3538
+}

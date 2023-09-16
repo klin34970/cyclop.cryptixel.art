@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 54
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949136
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3814",
+    "external_url": "https://cyclop.cryptixel.art/3814",
+    "image": "https://cyclop.cryptixel.art/3814",
+    "name": 3814
+}

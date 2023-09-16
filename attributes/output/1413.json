@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 23
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 64
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949116
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1413",
+    "external_url": "https://cyclop.cryptixel.art/1413",
+    "image": "https://cyclop.cryptixel.art/1413",
+    "name": 1413
+}

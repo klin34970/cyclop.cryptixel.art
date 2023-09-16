@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 52
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949195
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1892",
+    "external_url": "https://cyclop.cryptixel.art/1892",
+    "image": "https://cyclop.cryptixel.art/1892",
+    "name": 1892
+}

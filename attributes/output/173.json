@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 49
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949050
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 173",
+    "external_url": "https://cyclop.cryptixel.art/173",
+    "image": "https://cyclop.cryptixel.art/173",
+    "name": 173
+}

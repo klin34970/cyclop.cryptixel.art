@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 39
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949203
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3623",
+    "external_url": "https://cyclop.cryptixel.art/3623",
+    "image": "https://cyclop.cryptixel.art/3623",
+    "name": 3623
+}

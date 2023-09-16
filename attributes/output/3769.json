@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 50
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949176
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3769",
+    "external_url": "https://cyclop.cryptixel.art/3769",
+    "image": "https://cyclop.cryptixel.art/3769",
+    "name": 3769
+}

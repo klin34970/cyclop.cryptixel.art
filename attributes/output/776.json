@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 52
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949066
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 776",
+    "external_url": "https://cyclop.cryptixel.art/776",
+    "image": "https://cyclop.cryptixel.art/776",
+    "name": 776
+}

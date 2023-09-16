@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "horns"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 70
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949110
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2332",
+    "external_url": "https://cyclop.cryptixel.art/2332",
+    "image": "https://cyclop.cryptixel.art/2332",
+    "name": 2332
+}

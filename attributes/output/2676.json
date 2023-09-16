@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 54
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949071
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2676",
+    "external_url": "https://cyclop.cryptixel.art/2676",
+    "image": "https://cyclop.cryptixel.art/2676",
+    "name": 2676
+}

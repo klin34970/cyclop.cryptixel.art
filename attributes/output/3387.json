@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 74
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949088
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3387",
+    "external_url": "https://cyclop.cryptixel.art/3387",
+    "image": "https://cyclop.cryptixel.art/3387",
+    "name": 3387
+}

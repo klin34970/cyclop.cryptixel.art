@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 67
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949154
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1400",
+    "external_url": "https://cyclop.cryptixel.art/1400",
+    "image": "https://cyclop.cryptixel.art/1400",
+    "name": 1400
+}

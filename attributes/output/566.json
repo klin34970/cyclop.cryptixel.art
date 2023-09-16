@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 35
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949031
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 566",
+    "external_url": "https://cyclop.cryptixel.art/566",
+    "image": "https://cyclop.cryptixel.art/566",
+    "name": 566
+}

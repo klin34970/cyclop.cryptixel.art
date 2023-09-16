@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 37
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 54
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949083
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3425",
+    "external_url": "https://cyclop.cryptixel.art/3425",
+    "image": "https://cyclop.cryptixel.art/3425",
+    "name": 3425
+}

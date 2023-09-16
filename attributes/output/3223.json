@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 55
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949094
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3223",
+    "external_url": "https://cyclop.cryptixel.art/3223",
+    "image": "https://cyclop.cryptixel.art/3223",
+    "name": 3223
+}

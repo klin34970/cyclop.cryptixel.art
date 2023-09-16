@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 30
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949116
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1983",
+    "external_url": "https://cyclop.cryptixel.art/1983",
+    "image": "https://cyclop.cryptixel.art/1983",
+    "name": 1983
+}

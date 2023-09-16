@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 48
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 31
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 43
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949143
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1405",
+    "external_url": "https://cyclop.cryptixel.art/1405",
+    "image": "https://cyclop.cryptixel.art/1405",
+    "name": 1405
+}

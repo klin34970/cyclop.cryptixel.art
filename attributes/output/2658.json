@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 70
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949153
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2658",
+    "external_url": "https://cyclop.cryptixel.art/2658",
+    "image": "https://cyclop.cryptixel.art/2658",
+    "name": 2658
+}

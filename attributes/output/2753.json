@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 23
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 72
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949054
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2753",
+    "external_url": "https://cyclop.cryptixel.art/2753",
+    "image": "https://cyclop.cryptixel.art/2753",
+    "name": 2753
+}

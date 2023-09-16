@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 17
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 15
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949207
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1319",
+    "external_url": "https://cyclop.cryptixel.art/1319",
+    "image": "https://cyclop.cryptixel.art/1319",
+    "name": 1319
+}

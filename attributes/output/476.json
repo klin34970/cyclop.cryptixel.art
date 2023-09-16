@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 69
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949196
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 476",
+    "external_url": "https://cyclop.cryptixel.art/476",
+    "image": "https://cyclop.cryptixel.art/476",
+    "name": 476
+}

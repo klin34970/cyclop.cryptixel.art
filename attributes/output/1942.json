@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 36
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949056
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1942",
+    "external_url": "https://cyclop.cryptixel.art/1942",
+    "image": "https://cyclop.cryptixel.art/1942",
+    "name": 1942
+}

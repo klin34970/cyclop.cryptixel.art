@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 31
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949113
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1558",
+    "external_url": "https://cyclop.cryptixel.art/1558",
+    "image": "https://cyclop.cryptixel.art/1558",
+    "name": 1558
+}

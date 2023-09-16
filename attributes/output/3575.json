@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 24
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949114
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3575",
+    "external_url": "https://cyclop.cryptixel.art/3575",
+    "image": "https://cyclop.cryptixel.art/3575",
+    "name": 3575
+}

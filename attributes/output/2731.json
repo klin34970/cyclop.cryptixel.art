@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 26
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949190
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2731",
+    "external_url": "https://cyclop.cryptixel.art/2731",
+    "image": "https://cyclop.cryptixel.art/2731",
+    "name": 2731
+}

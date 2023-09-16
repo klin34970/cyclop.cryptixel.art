@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 34
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949167
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2139",
+    "external_url": "https://cyclop.cryptixel.art/2139",
+    "image": "https://cyclop.cryptixel.art/2139",
+    "name": 2139
+}

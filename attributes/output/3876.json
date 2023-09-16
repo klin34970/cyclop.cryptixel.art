@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 45
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 39
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949191
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3876",
+    "external_url": "https://cyclop.cryptixel.art/3876",
+    "image": "https://cyclop.cryptixel.art/3876",
+    "name": 3876
+}

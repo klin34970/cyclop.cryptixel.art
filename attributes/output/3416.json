@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 36
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949081
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3416",
+    "external_url": "https://cyclop.cryptixel.art/3416",
+    "image": "https://cyclop.cryptixel.art/3416",
+    "name": 3416
+}

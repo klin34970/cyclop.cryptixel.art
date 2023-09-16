@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "square"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 55
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 27
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949155
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 982",
+    "external_url": "https://cyclop.cryptixel.art/982",
+    "image": "https://cyclop.cryptixel.art/982",
+    "name": 982
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 71
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949146
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1952",
+    "external_url": "https://cyclop.cryptixel.art/1952",
+    "image": "https://cyclop.cryptixel.art/1952",
+    "name": 1952
+}

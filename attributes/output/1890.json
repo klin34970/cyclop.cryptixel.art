@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 24
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949098
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1890",
+    "external_url": "https://cyclop.cryptixel.art/1890",
+    "image": "https://cyclop.cryptixel.art/1890",
+    "name": 1890
+}

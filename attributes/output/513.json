@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 17
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 63
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949203
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 513",
+    "external_url": "https://cyclop.cryptixel.art/513",
+    "image": "https://cyclop.cryptixel.art/513",
+    "name": 513
+}

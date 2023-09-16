@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "trinity"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 51
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949188
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3821",
+    "external_url": "https://cyclop.cryptixel.art/3821",
+    "image": "https://cyclop.cryptixel.art/3821",
+    "name": 3821
+}

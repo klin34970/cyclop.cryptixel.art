@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 41
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949141
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 300",
+    "external_url": "https://cyclop.cryptixel.art/300",
+    "image": "https://cyclop.cryptixel.art/300",
+    "name": 300
+}

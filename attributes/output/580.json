@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 42
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 32
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949124
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 580",
+    "external_url": "https://cyclop.cryptixel.art/580",
+    "image": "https://cyclop.cryptixel.art/580",
+    "name": 580
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 71
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949089
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 943",
+    "external_url": "https://cyclop.cryptixel.art/943",
+    "image": "https://cyclop.cryptixel.art/943",
+    "name": 943
+}

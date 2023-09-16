@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 37
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 30
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949128
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2709",
+    "external_url": "https://cyclop.cryptixel.art/2709",
+    "image": "https://cyclop.cryptixel.art/2709",
+    "name": 2709
+}

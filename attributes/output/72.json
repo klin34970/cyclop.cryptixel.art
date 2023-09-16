@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 45
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949061
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 72",
+    "external_url": "https://cyclop.cryptixel.art/72",
+    "image": "https://cyclop.cryptixel.art/72",
+    "name": 72
+}

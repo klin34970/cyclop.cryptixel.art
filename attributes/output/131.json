@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 18
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 15
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949080
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 131",
+    "external_url": "https://cyclop.cryptixel.art/131",
+    "image": "https://cyclop.cryptixel.art/131",
+    "name": 131
+}

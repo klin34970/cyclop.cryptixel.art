@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 55
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949049
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3735",
+    "external_url": "https://cyclop.cryptixel.art/3735",
+    "image": "https://cyclop.cryptixel.art/3735",
+    "name": 3735
+}

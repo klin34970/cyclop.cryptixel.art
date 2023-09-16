@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 49
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 44
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949082
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1659",
+    "external_url": "https://cyclop.cryptixel.art/1659",
+    "image": "https://cyclop.cryptixel.art/1659",
+    "name": 1659
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 42
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949097
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 627",
+    "external_url": "https://cyclop.cryptixel.art/627",
+    "image": "https://cyclop.cryptixel.art/627",
+    "name": 627
+}

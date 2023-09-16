@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "covid"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 69
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 42
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949083
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2315",
+    "external_url": "https://cyclop.cryptixel.art/2315",
+    "image": "https://cyclop.cryptixel.art/2315",
+    "name": 2315
+}

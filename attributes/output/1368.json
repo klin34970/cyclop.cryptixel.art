@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 62
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 57
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949101
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1368",
+    "external_url": "https://cyclop.cryptixel.art/1368",
+    "image": "https://cyclop.cryptixel.art/1368",
+    "name": 1368
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 42
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949162
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3181",
+    "external_url": "https://cyclop.cryptixel.art/3181",
+    "image": "https://cyclop.cryptixel.art/3181",
+    "name": 3181
+}

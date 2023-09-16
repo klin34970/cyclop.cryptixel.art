@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 51
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 37
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949129
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2665",
+    "external_url": "https://cyclop.cryptixel.art/2665",
+    "image": "https://cyclop.cryptixel.art/2665",
+    "name": 2665
+}

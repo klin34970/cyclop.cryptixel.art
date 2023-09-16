@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 45
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949031
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 290",
+    "external_url": "https://cyclop.cryptixel.art/290",
+    "image": "https://cyclop.cryptixel.art/290",
+    "name": 290
+}

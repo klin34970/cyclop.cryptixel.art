@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 37
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 67
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949143
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2302",
+    "external_url": "https://cyclop.cryptixel.art/2302",
+    "image": "https://cyclop.cryptixel.art/2302",
+    "name": 2302
+}

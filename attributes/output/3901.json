@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "duck"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 23
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 52
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949181
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3901",
+    "external_url": "https://cyclop.cryptixel.art/3901",
+    "image": "https://cyclop.cryptixel.art/3901",
+    "name": 3901
+}

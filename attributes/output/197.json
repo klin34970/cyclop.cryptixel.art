@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 32
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 28
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 56
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949036
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 197",
+    "external_url": "https://cyclop.cryptixel.art/197",
+    "image": "https://cyclop.cryptixel.art/197",
+    "name": 197
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "rap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "delta"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "elvis"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 98
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 91
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 96
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 81
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 4060",
+    "external_url": "https://cyclop.cryptixel.art/4060",
+    "image": "https://cyclop.cryptixel.art/4060",
+    "name": 4060
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 69
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949128
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 615",
+    "external_url": "https://cyclop.cryptixel.art/615",
+    "image": "https://cyclop.cryptixel.art/615",
+    "name": 615
+}

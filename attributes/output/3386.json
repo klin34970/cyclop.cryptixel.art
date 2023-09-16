@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "tree"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 56
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949185
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3386",
+    "external_url": "https://cyclop.cryptixel.art/3386",
+    "image": "https://cyclop.cryptixel.art/3386",
+    "name": 3386
+}

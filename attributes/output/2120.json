@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 26
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 65
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 58
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949100
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2120",
+    "external_url": "https://cyclop.cryptixel.art/2120",
+    "image": "https://cyclop.cryptixel.art/2120",
+    "name": 2120
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 19
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949113
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1869",
+    "external_url": "https://cyclop.cryptixel.art/1869",
+    "image": "https://cyclop.cryptixel.art/1869",
+    "name": 1869
+}

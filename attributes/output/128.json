@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 64
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949022
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 128",
+    "external_url": "https://cyclop.cryptixel.art/128",
+    "image": "https://cyclop.cryptixel.art/128",
+    "name": 128
+}

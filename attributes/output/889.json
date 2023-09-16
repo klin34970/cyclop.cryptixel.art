@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 37
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 37
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 75
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 62
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949099
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 889",
+    "external_url": "https://cyclop.cryptixel.art/889",
+    "image": "https://cyclop.cryptixel.art/889",
+    "name": 889
+}

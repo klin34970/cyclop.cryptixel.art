@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "striped"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 23
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 26
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949163
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 750",
+    "external_url": "https://cyclop.cryptixel.art/750",
+    "image": "https://cyclop.cryptixel.art/750",
+    "name": 750
+}

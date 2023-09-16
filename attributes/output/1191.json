@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "ring"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "antenna"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 20
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 53
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 21
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949138
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1191",
+    "external_url": "https://cyclop.cryptixel.art/1191",
+    "image": "https://cyclop.cryptixel.art/1191",
+    "name": 1191
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpurple"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 72
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949041
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2061",
+    "external_url": "https://cyclop.cryptixel.art/2061",
+    "image": "https://cyclop.cryptixel.art/2061",
+    "name": 2061
+}

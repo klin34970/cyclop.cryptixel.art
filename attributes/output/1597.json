@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 24
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 24
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949062
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1597",
+    "external_url": "https://cyclop.cryptixel.art/1597",
+    "image": "https://cyclop.cryptixel.art/1597",
+    "name": 1597
+}

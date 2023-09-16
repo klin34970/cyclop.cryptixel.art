@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 21
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 67
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 27
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949102
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2010",
+    "external_url": "https://cyclop.cryptixel.art/2010",
+    "image": "https://cyclop.cryptixel.art/2010",
+    "name": 2010
+}

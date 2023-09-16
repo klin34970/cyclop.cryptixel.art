@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 57
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 37
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 61
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949092
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3397",
+    "external_url": "https://cyclop.cryptixel.art/3397",
+    "image": "https://cyclop.cryptixel.art/3397",
+    "name": 3397
+}

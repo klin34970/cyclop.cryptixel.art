@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "love"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "leaf"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 25
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 17
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 69
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949099
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1822",
+    "external_url": "https://cyclop.cryptixel.art/1822",
+    "image": "https://cyclop.cryptixel.art/1822",
+    "name": 1822
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "makeup"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "stem"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 17
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 27
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949029
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 893",
+    "external_url": "https://cyclop.cryptixel.art/893",
+    "image": "https://cyclop.cryptixel.art/893",
+    "name": 893
+}

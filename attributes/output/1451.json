@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "cap"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 39
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949092
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1451",
+    "external_url": "https://cyclop.cryptixel.art/1451",
+    "image": "https://cyclop.cryptixel.art/1451",
+    "name": 1451
+}

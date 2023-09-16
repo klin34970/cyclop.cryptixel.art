@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "mustache"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "pig"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 36
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 68
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949031
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 49",
+    "external_url": "https://cyclop.cryptixel.art/49",
+    "image": "https://cyclop.cryptixel.art/49",
+    "name": 49
+}

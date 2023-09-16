@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pocket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "glasses"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 25
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949108
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 639",
+    "external_url": "https://cyclop.cryptixel.art/639",
+    "image": "https://cyclop.cryptixel.art/639",
+    "name": 639
+}

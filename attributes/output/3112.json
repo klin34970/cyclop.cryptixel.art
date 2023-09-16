@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "zigzag"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 19
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 19
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949205
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3112",
+    "external_url": "https://cyclop.cryptixel.art/3112",
+    "image": "https://cyclop.cryptixel.art/3112",
+    "name": 3112
+}

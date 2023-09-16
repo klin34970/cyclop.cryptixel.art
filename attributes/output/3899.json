@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 63
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 72
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 38
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949028
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3899",
+    "external_url": "https://cyclop.cryptixel.art/3899",
+    "image": "https://cyclop.cryptixel.art/3899",
+    "name": 3899
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "caucasian"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "hat"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 54
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 61
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 36
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949140
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2316",
+    "external_url": "https://cyclop.cryptixel.art/2316",
+    "image": "https://cyclop.cryptixel.art/2316",
+    "name": 2316
+}

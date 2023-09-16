@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "jacket"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "tails"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 68
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 58
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 74
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949091
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2922",
+    "external_url": "https://cyclop.cryptixel.art/2922",
+    "image": "https://cyclop.cryptixel.art/2922",
+    "name": 2922
+}

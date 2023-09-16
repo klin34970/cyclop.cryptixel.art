@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "hiphop"
+        },
+        {
+            "trait_type": "Face",
+            "value": "abe"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "headphone"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 78
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 83
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 93
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 88
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949210
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 60",
+    "external_url": "https://cyclop.cryptixel.art/60",
+    "image": "https://cyclop.cryptixel.art/60",
+    "name": 60
+}

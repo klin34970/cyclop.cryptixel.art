@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "clown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 39
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 25
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949025
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 4019",
+    "external_url": "https://cyclop.cryptixel.art/4019",
+    "image": "https://cyclop.cryptixel.art/4019",
+    "name": 4019
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 56
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 52
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949050
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3862",
+    "external_url": "https://cyclop.cryptixel.art/3862",
+    "image": "https://cyclop.cryptixel.art/3862",
+    "name": 3862
+}

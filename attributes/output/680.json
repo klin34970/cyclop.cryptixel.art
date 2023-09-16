@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "brown"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 38
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 71
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 61
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949140
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 680",
+    "external_url": "https://cyclop.cryptixel.art/680",
+    "image": "https://cyclop.cryptixel.art/680",
+    "name": 680
+}

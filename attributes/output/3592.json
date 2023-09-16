@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 41
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 64
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 19
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949067
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3592",
+    "external_url": "https://cyclop.cryptixel.art/3592",
+    "image": "https://cyclop.cryptixel.art/3592",
+    "name": 3592
+}

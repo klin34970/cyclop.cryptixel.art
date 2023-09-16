@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "hiphop"
+        },
+        {
+            "trait_type": "Face",
+            "value": "delta"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "headphone"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 77
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 99
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 89
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 86
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2860",
+    "external_url": "https://cyclop.cryptixel.art/2860",
+    "image": "https://cyclop.cryptixel.art/2860",
+    "name": 2860
+}

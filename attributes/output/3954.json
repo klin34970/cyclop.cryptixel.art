@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "orange"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "cheekbone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 59
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 44
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 67
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949071
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3954",
+    "external_url": "https://cyclop.cryptixel.art/3954",
+    "image": "https://cyclop.cryptixel.art/3954",
+    "name": 3954
+}

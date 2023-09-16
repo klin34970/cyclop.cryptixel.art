@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "peach"
+        },
+        {
+            "trait_type": "Body",
+            "value": "blackpink"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "clown"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 74
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 43
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 41
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949032
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1160",
+    "external_url": "https://cyclop.cryptixel.art/1160",
+    "image": "https://cyclop.cryptixel.art/1160",
+    "name": 1160
+}

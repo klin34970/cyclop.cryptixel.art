@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "scars"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 70
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 15
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 58
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949066
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3625",
+    "external_url": "https://cyclop.cryptixel.art/3625",
+    "image": "https://cyclop.cryptixel.art/3625",
+    "name": 3625
+}

@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "purple"
+        },
+        {
+            "trait_type": "Body",
+            "value": "shirt"
+        },
+        {
+            "trait_type": "Face",
+            "value": "stone"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "eggshell"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 50
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 40
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 46
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949149
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3123",
+    "external_url": "https://cyclop.cryptixel.art/3123",
+    "image": "https://cyclop.cryptixel.art/3123",
+    "name": 3123
+}

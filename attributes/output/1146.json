@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "duck"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "nenuphar"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 34
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 47
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 44
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949120
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1146",
+    "external_url": "https://cyclop.cryptixel.art/1146",
+    "image": "https://cyclop.cryptixel.art/1146",
+    "name": 1146
+}

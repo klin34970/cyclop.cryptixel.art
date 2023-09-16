@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sun"
+        },
+        {
+            "trait_type": "Body",
+            "value": "rap"
+        },
+        {
+            "trait_type": "Face",
+            "value": "abe"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "devil"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 96
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 91
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 88
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 82
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949211
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3272",
+    "external_url": "https://cyclop.cryptixel.art/3272",
+    "image": "https://cyclop.cryptixel.art/3272",
+    "name": 3272
+}

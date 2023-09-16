@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "dots"
+        },
+        {
+            "trait_type": "Face",
+            "value": "tired"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blonde"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 35
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 33
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 30
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 64
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949067
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 729",
+    "external_url": "https://cyclop.cryptixel.art/729",
+    "image": "https://cyclop.cryptixel.art/729",
+    "name": 729
+}

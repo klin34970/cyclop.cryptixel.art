@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "donut"
+        },
+        {
+            "trait_type": "Face",
+            "value": "bogoss"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "angel"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 52
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 66
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 44
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949045
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 3636",
+    "external_url": "https://cyclop.cryptixel.art/3636",
+    "image": "https://cyclop.cryptixel.art/3636",
+    "name": 3636
+}

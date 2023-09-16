@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "meadow"
+        },
+        {
+            "trait_type": "Body",
+            "value": "flower"
+        },
+        {
+            "trait_type": "Face",
+            "value": "green"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "egg"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 29
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 22
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 46
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 72
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949074
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 1204",
+    "external_url": "https://cyclop.cryptixel.art/1204",
+    "image": "https://cyclop.cryptixel.art/1204",
+    "name": 1204
+}

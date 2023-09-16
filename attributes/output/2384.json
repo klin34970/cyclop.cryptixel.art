@@ -1,0 +1,49 @@
+{
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "sky"
+        },
+        {
+            "trait_type": "Body",
+            "value": "pull"
+        },
+        {
+            "trait_type": "Face",
+            "value": "metis"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "blue"
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Health",
+            "value": 73
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Agility",
+            "value": 27
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Stamina",
+            "value": 60
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "Vision",
+            "value": 45
+        },
+        {
+            "display_type": "date",
+            "trait_type": "Birthday",
+            "value": 1628949123
+        }
+    ],
+    "description": "Fantastic creatures in Greek mythology. Cyclop: 2384",
+    "external_url": "https://cyclop.cryptixel.art/2384",
+    "image": "https://cyclop.cryptixel.art/2384",
+    "name": 2384
+}
